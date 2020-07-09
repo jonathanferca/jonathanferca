@@ -1,4 +1,8 @@
-### Hi there 👋
+### Jonathan Fernandez - JojosCode.com[https://jojoscode.com]
+
+- I'm a software developer who loves working with web development and hybrid mobile applications. 👨‍💻
+
+
 
 <!--
 **jonathanferca/jonathanferca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
