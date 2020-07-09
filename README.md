@@ -1,4 +1,4 @@
-### Jonathan Fernandez - JojosCode.com[https://jojoscode.com]
+### Jonathan Fernandez - [JojosCode.com](https://jojoscode.com)
 
 - I'm a software developer who loves working with web development and hybrid mobile applications. 👨‍💻
 
